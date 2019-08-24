@@ -11,3 +11,8 @@ Always have fully charged batteries - we will be getting new batteries.
 You cannot have the wifi or bluetooth on during competition - other people could try and control it.
 
 You can use Github to upload your code and save it on the web - this account is secure, and no one else can see it.
+
+In order to prevent your robot to not have gyro drift, use ramp up/ramp down
+
+Gyro drift is when your robot it jerked around and looses position. This typically happens when you set your robot to go fast to start, and it jerks.
+
