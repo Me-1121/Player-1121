@@ -17,3 +17,6 @@ In order to prevent your robot to not have gyro drift, use ramp up/ramp down
 Gyro drift is when your robot it jerked around and looses position. This typically happens when you set your robot to go fast to start, and it jerks.
 
 To make a comment, use #. Example: #This is an example#
+
+Do not use a motor speeed less than 5, or it will not start. This is because the motor is not being given enough power, which will make it stall.
+
