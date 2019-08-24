@@ -1,2 +1,2 @@
-# Player-1121
-This is where all of Player#1121's code is.
+# Player#1121
+If you managed to get here, then you are part of St. Francis's Player#1121 Robotics Elective Code Examples. This is where you can share code for other coders to see. Thanks!
