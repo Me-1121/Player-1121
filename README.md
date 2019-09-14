@@ -1,2 +1,5 @@
-# Player#1121
-If you managed to get here, then you are part of St. Francis's Player#1121 Robotics Elective Coders. This is where you can share code for other coders to see. Thanks!
+Assuming that you have read the previous message, I am giving you a new one:
+
+Make sure to upload every single bit of your code to github. It will help us make sure that all code is saved, and so that we can access it at any time. Thanks!
+
+-Mitchell
